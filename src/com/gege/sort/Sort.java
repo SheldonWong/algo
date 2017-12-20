@@ -31,7 +31,7 @@ public class Sort {
 
 	public static void main(String[] args) {
 		//int[] a = {8,2,7,1,4,6,3,5};
-		//生成测试用例
+		//生成测试用例2
 		int[] a = ArrayUtils.generateRandomArray(10, 10, 30);
 		quickSort(a,0,a.length-1);
 		ArrayUtils.printArray(a);
