@@ -7,5 +7,14 @@ public class TreeNode {
 	public TreeNode(int x){
 		val = x;
 	}
+	
+	//根据数组构建二叉树
+	public TreeNode arrayToTree(int[] a){
+		TreeNode root = new TreeNode(a[0]);
+		
+		for(int i = 1; i < a.length; i++){
+			
+		}
+	}
 
 }
