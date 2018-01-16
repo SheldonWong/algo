@@ -51,5 +51,9 @@
 ### 9. 动态规划
 * 70 爬台阶
 * 343 将整数划分成若干个数的和，使得这些数乘积最大
+* 198 House Robber,只能偷取不相邻的房子，问最大能偷取多少价值
+* 213 House Robber II,环(未完成)
+* 337 House Robber III,二叉树(未完成)
+* 309 Best Time to Buy and Sell Stock with Cooldown(未完成)
 
 
