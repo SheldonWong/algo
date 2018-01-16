@@ -56,5 +56,8 @@
 * 337 House Robber III,二叉树(未完成)
 * 309 Best Time to Buy and Sell Stock with Cooldown(未完成)
 * 经典问题-01背包问题，优化(未完成)
+* 416 Partition Equal Subset Sum(转化成背包问题)
+* 300 Longest Increasing Subsequence
+* 经典问题，单源最短路径
 
 
