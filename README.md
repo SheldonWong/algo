@@ -1,15 +1,28 @@
 # algo
 
 ## 1 排序
-平均，最好，最坏，空间复杂度，是否稳定
+平均，最坏，最好，空间复杂度，是否稳定
 * 插入排序 O(n^2)   O(n^2)   O(n)     O(1)    稳定
 * 快速排序 O(nlogn) O(n^2)   O(nlogn) O(logn) 不稳定
 * 堆排序     O(nlogn) O(nlogn) O(nlogn) O(1)    不稳定
 * 归并排序 O(nlogn) O(nlogn) O(nlogn) O(n)    稳定
 
+## 1 查找
+* 二分查找
+
 ## 2 Leetcode
-6.栈和队列
-### 栈部分 
+### 3.数组
+* 283 Move Zeros
+* 27 Remove Element
+* 26 Remove Duplicates from Sorted Array
+* 80 Remove Duplicates from Sorted Array II
+
+### 4.哈希表
+
+### 5.链表
+
+### 6.栈和队列
+#### 栈部分 
 * 20 括号匹配
 * 150 逆波兰表达式
 * 71 简化路径
@@ -18,7 +31,7 @@
 * 145 二叉树后续遍历
 * 341 展平嵌套列表
 
-### 队列部分
+#### 队列部分
 * 102 二叉树层次遍历
 * 107 二叉树层次遍历II
 * 103 二叉树之字形遍历
