@@ -16,6 +16,9 @@
 * 27 Remove Element
 * 26 Remove Duplicates from Sorted Array
 * 80 Remove Duplicates from Sorted Array II
+* 75 Sort Colors 计数排序
+* 88 Merge Sorted Array
+* 215 Kth Largest Element in an Array
 
 ### 4.哈希表
 
