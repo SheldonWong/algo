@@ -19,6 +19,11 @@
 * 75 Sort Colors 计数排序
 * 88 Merge Sorted Array
 * 215 Kth Largest Element in an Array
+* 167 Two Sum II - Input array is sorted
+* 125 Valid Palindrome 回文字符串(虽然思想简单，但是坑很多，注意题干，考虑字符数字，忽略大小写)
+* 344 Reverse String 翻转字符串(先将字符串转成字符数组，再进行操作，最后转回字符串String.valueOf())
+* 345 Reverse Vowels of a String 元音字母翻转
+* 11 Container With Most Water(注意搜索的时候往area可能变大的方向搜索)
 
 ### 4.哈希表
 

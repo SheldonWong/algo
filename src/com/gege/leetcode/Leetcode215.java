@@ -33,6 +33,7 @@ public class Leetcode215 {
         int left = 0, right = nums.length - 1;
         while (true) {
             int pos = partition(nums, left, right);
+            //这里返回就可以。。。
             if (pos == nums.length-k) return nums[pos];
             if (pos > nums.length-k) right = pos - 1;
             else left = pos + 1;
