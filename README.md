@@ -24,8 +24,20 @@
 * 344 Reverse String 翻转字符串(先将字符串转成字符数组，再进行操作，最后转回字符串String.valueOf())
 * 345 Reverse Vowels of a String 元音字母翻转
 * 11 Container With Most Water(注意搜索的时候往area可能变大的方向搜索)
+* 209 Minimum Size Subarray Sum(双索引-滑动窗口)
+* 3 Longest Substring Without Repeating Characters(双索引-滑动窗口)
+* 438 Find All Anagrams in a String(双索引-滑动窗口)
+* 76 Minimum Window Substring(双索引-滑动窗口)
+
 
 ### 4.哈希表
+* 349. Intersection of Two Arrays
+* 350. Intersection of Two Arrays
+* 242. Valid Anagram
+* 202. Happy Number
+* 290. Word Pattern
+* 205. Isomorphic Strings
+* 451 Sort Characters By Frequency
 
 ### 5.链表
 
