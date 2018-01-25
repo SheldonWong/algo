@@ -32,12 +32,12 @@
 
 
 ### 4.哈希表
-* 349. Intersection of Two Arrays
-* 350. Intersection of Two Arrays
-* 242. Valid Anagram
-* 202. Happy Number
-* 290. Word Pattern
-* 205. Isomorphic Strings
+* 349 Intersection of Two Arrays
+* 350 Intersection of Two Arrays
+* 242 Valid Anagram
+* 202 Happy Number
+* 290 Word Pattern
+* 205 Isomorphic Strings
 * 451 Sort Characters By Frequency
 * 447 Number of Boomerangs
 * 454 4Sum II
