@@ -1,13 +1,14 @@
 # algo
 
-## 1 排序
+## 1 排序与查找
+### 1 排序
 平均，最坏，最好，空间复杂度，是否稳定
 * 插入排序 O(n^2)   O(n^2)   O(n)     O(1)    稳定
 * 快速排序 O(nlogn) O(n^2)   O(nlogn) O(logn) 不稳定
 * 堆排序     O(nlogn) O(nlogn) O(nlogn) O(1)    不稳定
 * 归并排序 O(nlogn) O(nlogn) O(nlogn) O(n)    稳定
 
-## 1 查找
+### 1 查找
 * 二分查找
 
 ## 2 Leetcode
@@ -38,8 +39,13 @@
 * 290. Word Pattern
 * 205. Isomorphic Strings
 * 451 Sort Characters By Frequency
+* 447 Number of Boomerangs
+* 454 4Sum II
+* 217 Contains Duplicate
+* 219 Contains Duplicate II
 
 ### 5.链表
+* 206 Reverse Linked List
 
 ### 6.栈和队列
 #### 栈部分 
