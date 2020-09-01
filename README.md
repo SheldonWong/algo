@@ -26,20 +26,20 @@
 ### 3.数组
 * 283 Move Zeros | [java](https://github.com/SheldonWong/algo/blob/master/src/com/gege/3-array/Leetcode283v3.java) | [cpp]() | [python]()
 * 27 Remove Element | [java](https://github.com/SheldonWong/algo/blob/master/src/com/gege/3-array/Leetcode27.java) | [cpp]() | [python]()
-* 26 Remove Duplicates from Sorted Array
-* 80 Remove Duplicates from Sorted Array II
-* 75 Sort Colors 计数排序
-* 88 Merge Sorted Array
-* 215 Kth Largest Element in an Array
-* 167 Two Sum II - Input array is sorted
-* 125 Valid Palindrome 回文字符串(虽然思想简单，但是坑很多，注意题干，考虑字符数字，忽略大小写)
-* 344 Reverse String 翻转字符串(先将字符串转成字符数组，再进行操作，最后转回字符串String.valueOf())
-* 345 Reverse Vowels of a String 元音字母翻转
-* 11 Container With Most Water(注意搜索的时候往area可能变大的方向搜索)
-* 209 Minimum Size Subarray Sum(双索引-滑动窗口)
-* 3 Longest Substring Without Repeating Characters(双索引-滑动窗口)
-* 438 Find All Anagrams in a String(双索引-滑动窗口)
-* 76 Minimum Window Substring(双索引-滑动窗口)
+* 26 Remove Duplicates from Sorted Array | [java](https://github.com/SheldonWong/algo/blob/master/src/com/gege/3-array/Leetcode26.java) | [cpp]() | [python]()
+* 80 Remove Duplicates from Sorted Array II | [java](https://github.com/SheldonWong/algo/blob/master/src/com/gege/3-array/Leetcode80.java) | [cpp]() | [python]()
+* 75 Sort Colors 计数排序 | [java](https://github.com/SheldonWong/algo/blob/master/src/com/gege/3-array/Leetcode75.java) | [cpp]() | [python]()
+* 88 Merge Sorted Array | [java](https://github.com/SheldonWong/algo/blob/master/src/com/gege/3-array/Leetcode88.java) | [cpp]() | [python]()
+* 215 Kth Largest Element in an Array | [java](https://github.com/SheldonWong/algo/blob/master/src/com/gege/3-array/Leetcode215.java) | [cpp]() | [python]()
+* 167 Two Sum II - Input array is sorted | [java](https://github.com/SheldonWong/algo/blob/master/src/com/gege/3-array/Leetcode167.java) | [cpp]() | [python]()
+* 125 Valid Palindrome 回文字符串(虽然思想简单，但是坑很多，注意题干，考虑字符数字，忽略大小写) | [java](https://github.com/SheldonWong/algo/blob/master/src/com/gege/3-array/Leetcode26.java) | [cpp]() | [python]()
+* 344 Reverse String 翻转字符串(先将字符串转成字符数组，再进行操作，最后转回字符串String.valueOf()) | [java](https://github.com/SheldonWong/algo/blob/master/src/com/gege/3-array/Leetcode344.java) | [cpp]() | [python]()
+* 345 Reverse Vowels of a String 元音字母翻转 | [java](https://github.com/SheldonWong/algo/blob/master/src/com/gege/3-array/Leetcode345.java) | [cpp]() | [python]()
+* 11 Container With Most Water(注意搜索的时候往area可能变大的方向搜索) | [java](https://github.com/SheldonWong/algo/blob/master/src/com/gege/3-array/Leetcode11.java) | [cpp]() | [python]()
+* 209 Minimum Size Subarray Sum(双索引-滑动窗口) | [java](https://github.com/SheldonWong/algo/blob/master/src/com/gege/3-array/Leetcode209.java) | [cpp]() | [python]()
+* 3 Longest Substring Without Repeating Characters(双索引-滑动窗口) | [java](https://github.com/SheldonWong/algo/blob/master/src/com/gege/3-array/Leetcode3.java) | [cpp]() | [python]()
+* 438 Find All Anagrams in a String(双索引-滑动窗口) | [java](https://github.com/SheldonWong/algo/blob/master/src/com/gege/3-array/Leetcode438.java) | [cpp]() | [python]()
+* 76 Minimum Window Substring(双索引-滑动窗口) | [java](https://github.com/SheldonWong/algo/blob/master/src/com/gege/3-array/Leetcode76.java) | [cpp]() | [python]()
 
 
 ### 4.哈希表
