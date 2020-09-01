@@ -24,8 +24,8 @@
 
 ## 2 Leetcode
 ### 3.数组
-* 283 [Move Zeros](https://github.com/SheldonWong/algo/blob/master/src/com/gege/3-array/Leetcode283v3.java)
-* 27 [Remove Element](https://github.com/SheldonWong/algo/blob/master/src/com/gege/3-array/Leetcode27.java)
+* 283 Move Zeros | [java](https://github.com/SheldonWong/algo/blob/master/src/com/gege/3-array/Leetcode283v3.java) | [cpp]() | [python]()
+* 27 Remove Element | [java](https://github.com/SheldonWong/algo/blob/master/src/com/gege/3-array/Leetcode27.java) | [cpp]() | [python]()
 * 26 Remove Duplicates from Sorted Array
 * 80 Remove Duplicates from Sorted Array II
 * 75 Sort Colors 计数排序
