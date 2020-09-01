@@ -10,3 +10,9 @@ Python有五个标准的数据类型：
 - List（列表）
 - Tuple（元组）
 - Dictionary（字典）
+
+## 常用
+```python
+# 交换操作
+a,b = b,a
+```
